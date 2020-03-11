@@ -1,4 +1,4 @@
-{
+module.exports = {
  "ignore": [
     "**/*.__test__.*"
  ],
