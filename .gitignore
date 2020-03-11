@@ -11,6 +11,7 @@ docs/
 vanilla.js
 bundle.js
 fetchai-ledger-api.js
+fetchai-ledger-api-umd.js
 # Top Level Excludes
 app.js
 input1.json

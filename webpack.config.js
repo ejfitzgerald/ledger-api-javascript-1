@@ -20,7 +20,7 @@ module.exports = [
         output: {
             path: __dirname,
             publicPath: '/',
-            filename: 'index.js',
+            filename: 'fetchai-ledger-api-umd.js',
             library: 'fetchai',
             libraryTarget: 'umd',
             globalObject: 'this'
